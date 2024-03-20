@@ -1,0 +1,16 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "workshop expresse",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "nodemon ./serveur.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
